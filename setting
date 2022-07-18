@@ -1,0 +1,11 @@
+(1) Install anaconda
+
+(2) conda create --name Xiliangdiao python=3.6 cartopy matplotlib ipython netCDF4 fiona shapely pandas jupyter scipy numpy seaborn --yes
+
+(3) conda info --envs
+
+(4) source activate Xiliangdiao
+
+(5) !pip install basemap
+    !pip install basemap-data
+
